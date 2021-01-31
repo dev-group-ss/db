@@ -16,5 +16,23 @@
         "link": "https://drive.google.com/file/d/1eQ0xDYjAzT7ZysO9JL7cNx_CgOkJ7Y54/view"
       }
     ]
+  },
+  {
+    "title": "Assignment 2 :CE amplifier (Single stage)",
+    "description": "Based on the data sheet posted for the CE amplifier, prepare a report showing the frequency response of a single stage CE amplifier.",
+    "course": "EDC Lab",
+    "due": "05/02/2021",
+    "file_links": [
+      {
+        "type": "file",
+        "name": "exp3_BJT.doc",
+        "link": "https://drive.google.com/file/d/10QnMIbAfbwanIDSGr0cawn2Z7PFnR5ep/view"
+      },
+      {
+        "type": "meet",
+        "name": "BJT_CE_AMP.mp4",
+        "link": "https://drive.google.com/file/d/1yBLmJOWjojbp2XRVbCbeBKCpgPz0BjL4/view"
+      }
+    ]
   }
 ]
