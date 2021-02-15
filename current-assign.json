@@ -1,25 +1,3 @@
 [
-  {
-    "title": "Assignment 3 : Frequency response of Op-Amp",
-    "description": "make a report on the frequency response for both non-inverting and inverting Op-Amp",
-    "course": "EDC Lab",
-    "due": "12/02/2021",
-    "file_links": [
-      {
-        "type": "file",
-        "name": "OPAMP_Inverting.doc",
-        "link": "https://drive.google.com/file/d/105BUCAkGUtKB2F1zAcV56gyCL54DFaJe/view"
-      },
-      {
-        "type": "file",
-        "name": "OPAMP_NonInverting.doc",
-        "link": "https://drive.google.com/file/d/1nUnOA3IG7_VX9LpXE16aTMSmDRuONCFi/view"
-      },
-      {
-        "type": "file",
-        "name": "Lab Manual",
-        "link": "https://drive.google.com/file/d/1eQ0xDYjAzT7ZysO9JL7cNx_CgOkJ7Y54/view"
-      }
-    ]
-  }
+  
 ]
