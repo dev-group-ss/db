@@ -1,14 +1,14 @@
 [
   {
-    "description": "EDC Lab",
-    "type": "meet",
-    "link": "https://meet.google.com/pvi-edtk-qzn",
-    "active": true
-  },
-  {
     "description": "TOC",
     "type": "meet",
     "link": "https://meet.google.com/fzm-ynjj-syk",
+    "active": true
+  },
+  {
+    "description": "Java Lab",
+    "type": "meet",
+    "link": "https://meet.google.com/myq-ggue-hrg",
     "active": true
   }
 ]
