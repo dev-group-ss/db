@@ -10,5 +10,11 @@
     "type": "meet",
     "link": "https://meet.google.com/myq-ggue-hrg",
     "active": true
+  },
+  {
+    "description": "OOD",
+    "type": "meet",
+    "link": "https://meet.google.com/jxv-eghr-tie",
+    "active": true
   }
 ]
