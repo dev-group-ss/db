@@ -16,5 +16,11 @@
     "type": "meet",
     "link": "https://meet.google.com/hpc-wrao-bmn",
     "active": true
+  },
+  {
+    "description": "CBOT",
+    "type": "meet",
+    "link": "https://meet.google.com/jeq-rxyo-rba",
+    "active": true
   }
 ]
